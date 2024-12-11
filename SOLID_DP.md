@@ -27,3 +27,7 @@
 - **LSP**: Payment methods can be substituted easily.
 - **ISP**: Payment strategies provide distinct interfaces for each payment method.
 - **DIP**: The payment strategy is abstract, and the payment context depends on it.
+
+
+
+
