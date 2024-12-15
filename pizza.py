@@ -6,11 +6,11 @@ class Pizza(ABC):
         self.description = "Unknown Pizza"
         self.cost = 0
 
-    @abstractmethod
+
     def get_description(self):
         pass
 
-    @abstractmethod
+
     def get_cost(self):
         pass
 
